@@ -9,4 +9,3 @@ def hello(array)
   end
   collection
 end
-
